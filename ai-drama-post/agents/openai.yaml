@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 漫剧后期工作站"
+  short_description: "组织本地漫剧生成、配音剪辑、人物连续性与声画审核，保留原素材并按版本交付"
+  default_prompt: "使用 $ai-drama-post 完成我的漫剧后期，先读取现有素材和反馈，审核真实通过后按新版本交付。"

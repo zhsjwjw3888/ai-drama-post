@@ -1,0 +1,14 @@
+# Public release allowlist: legacy local production artifacts stay untracked.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/LICENSE
+!/CONTRIBUTING.md
+!/SECURITY.md
+!/ai-drama-post/
+/ai-drama-post/**/__pycache__/
+/ai-drama-post/**/*.pyc
+/ai-drama-post/**/*.log
+/ai-drama-post/.env*
+/ai-drama-post/**/.env*
