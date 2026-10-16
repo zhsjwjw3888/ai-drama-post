@@ -7,6 +7,12 @@
 !/CONTRIBUTING.md
 !/SECURITY.md
 !/ai-drama-post/
+!/docs/
+/docs/*
+!/docs/images/
+/docs/images/*
+!/docs/images/workflow.png
+!/docs/images/cli-demo.png
 /ai-drama-post/**/__pycache__/
 /ai-drama-post/**/*.pyc
 /ai-drama-post/**/*.log
